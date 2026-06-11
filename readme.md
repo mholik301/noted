@@ -1,6 +1,6 @@
 # Noted - simple text editor
 
-![Noted interface](./noted.png "Noted interface")
+![Noted interface](./noted.PNG "Noted interface")
 
 ## Purpose
 
